@@ -19,3 +19,4 @@
 
 ## Note
 You must have a licence to install hexnode. See https://www.hexnode.com for more details.
+The apk is available at https://downloads.hexnode.com/HexnodeMDM.apk
