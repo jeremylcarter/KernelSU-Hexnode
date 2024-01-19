@@ -1,6 +1,6 @@
 {
-  "version": "v3",
-  "versionCode": 3,
+  "version": "v4",
+  "versionCode": 4,
   "zipUrl": "https://github.com/jeremylcarter/KernelSU-Hexnode/releases/latest/download/KSU-Hexnode.zip",
   "changelog": "https://raw.githubusercontent.com/jeremylcarter/KernelSU-Hexnode/master/CHANGELOG.md"
 }
