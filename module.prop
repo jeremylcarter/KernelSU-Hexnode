@@ -1,7 +1,7 @@
 id=ksu-hexnode
 name=KSU-Hexnode
-version=v1
-versionCode=1
+version=v3
+versionCode=3
 author=jcarter
 description=A hexnode module for KernelSU
 updateJson=https://raw.githubusercontent.com/jeremylcarter/KernelSU-Hexnode/master/update.json
