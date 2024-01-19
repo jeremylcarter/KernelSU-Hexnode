@@ -9,12 +9,6 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-      - name: Get version
-        id: version
-        uses: notiz-dev/github-action-json-property@master
-        with: 
-            path: 'update.json'
-            prop_path: 'version'
       - name: Archive
         run:  |
           sudo zip -r KSU-Hexnode.zip *  
